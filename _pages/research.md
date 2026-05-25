@@ -11,10 +11,10 @@ author_profile: true
 ### [One Month Longer, One Month Later? Prepayments in the Auto Loan Market](https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf) 
 <p class="coauthors">
   With 
-  <a class="coauthor-link" href="https://www.bradleykatcher.com/home" target="_blank" rel="noopener">Bradley Katcher</a>,
-  <a class="coauthor-link" href="https://www.federalreserve.gov/econres/geng-li.htm" target="_blank" rel="noopener">Geng Li</a>,
+  <a href="https://www.bradleykatcher.com/home" target="_blank" rel="noopener">Bradley Katcher</a>,
+  <a href="https://www.federalreserve.gov/econres/geng-li.htm" target="_blank" rel="noopener">Geng Li</a>,
   and 
-  <a class="coauthor-link" href="https://www.federalreserve.gov/econres/alvaro-mezza.htm" target="_blank" rel="noopener">Alvaro Mezza</a>
+  <a href="https://www.federalreserve.gov/econres/alvaro-mezza.htm" target="_blank" rel="noopener">Alvaro Mezza</a>
 </p>
 
 <details>
