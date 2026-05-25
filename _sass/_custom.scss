@@ -60,3 +60,12 @@
 #theme-toggle {
   display: none !important;
 }
+
+
+/* Keep dark/night-style framing around profile photo */
+.author__avatar img {
+  padding: 5px !important;
+  background-color: #24292e !important;
+  border: 1px solid #24292e !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+}
