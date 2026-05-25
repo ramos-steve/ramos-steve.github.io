@@ -2,7 +2,7 @@
 .page__content a,
 .archive a,
 .sidebar a {
-  color: #003262;
+  color: #5c85c4;;
   text-decoration: none;
   border-bottom: none;
   box-shadow: none;
@@ -12,7 +12,7 @@
 .page__content a:hover,
 .archive a:hover,
 .sidebar a:hover {
-  color: #001f4d;
+  color: #3a5d9c;
   text-decoration: none;
   border-bottom: none;
   box-shadow: none;
@@ -21,7 +21,7 @@
 /* Coauthor links look like normal text until hover */
 .coauthors {
   font-size: 0.85em;
-  color: #555;
+  color: inherit;
   margin-top: -0.25rem;
   margin-bottom: 0.75rem;
 }
