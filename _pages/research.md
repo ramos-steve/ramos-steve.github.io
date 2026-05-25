@@ -34,5 +34,14 @@ choice of long-maturity loans.
 
 ## Works in Progress
 ### The Effects of Parent PLUS Loans on Educational and Family Finances 
+<p class="coauthors">
+  With 
+  <a href="https://www.sandraeblack.com/" target="_blank" rel="noopener">Sandra Black</a>,
+  <a href="https://jeffdenning.com/" target="_blank" rel="noopener">Jeffrey Denning</a>,
+  <a href="https://rfairlie.sites.luskin.ucla.edu/" target="_blank" rel="noopener">Robert Fairlie</a>,
+  <a href="https://sites.google.com/site/ogurantz/" target="_blank" rel="noopener">Oded Gurantz</a>,
+  and 
+  <a href="https://economics.nd.edu/people/graduate-students/michael-jensen/" target="_blank" rel="noopener">Michael Jensen</a>
+</p>
 **with Sandra Black, Jeffrey Denning, Robert Fairlie, Oded Gurantz, and Michael Jensen**
  
