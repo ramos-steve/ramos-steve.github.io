@@ -4,3 +4,36 @@
   margin-bottom: 0.75rem;
   color: #555;
 }
+/* Darker blue links, similar to Bailey Palmer's site */
+.page__content a,
+.archive a,
+.sidebar a {
+  color: #003262;
+}
+
+/* Optional: slightly darker on hover */
+.page__content a:hover,
+.archive a:hover,
+.sidebar a:hover {
+  color: #001f4d;
+  text-decoration: underline;
+}
+
+/* Coauthor links look like normal text until hover */
+.coauthors {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: -0.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.coauthors a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.coauthors a:hover {
+  color: #003262;
+  text-decoration: underline;
+}
