@@ -22,21 +22,18 @@
 }
 
 /* Coauthor line */
-.page__content p.coauthors,
-p.coauthors {
+body .page__content p.coauthors {
   font-size: 0.85em !important;
   color: #555 !important;
-  margin-top: -0.25rem;
-  margin-bottom: 0.75rem;
+  margin-top: -0.25rem !important;
+  margin-bottom: 0.75rem !important;
 }
 
-/* Coauthor links look like plain text by default */
-.page__content p.coauthors a,
-.page__content p.coauthors a:link,
-.page__content p.coauthors a:visited,
-p.coauthors a,
-p.coauthors a:link,
-p.coauthors a:visited {
+/* Coauthor links: plain gray by default */
+body .page__content p.coauthors a.coauthor-link,
+body .page__content p.coauthors a.coauthor-link:link,
+body .page__content p.coauthors a.coauthor-link:visited,
+body .page__content p.coauthors a.coauthor-link:active {
   color: #555 !important;
   font-size: inherit !important;
   text-decoration: none !important;
@@ -44,11 +41,9 @@ p.coauthors a:visited {
   box-shadow: none !important;
 }
 
-/* Coauthor links only look linked on hover */
-.page__content p.coauthors a:hover,
-.page__content p.coauthors a:focus,
-p.coauthors a:hover,
-p.coauthors a:focus {
+/* Coauthor links: blue only on hover */
+body .page__content p.coauthors a.coauthor-link:hover,
+body .page__content p.coauthors a.coauthor-link:focus {
   color: #003262 !important;
   font-size: inherit !important;
   text-decoration: underline !important;
