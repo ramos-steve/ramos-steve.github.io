@@ -1,52 +1,33 @@
-/* Main site links */
+/* Darker blue links, similar to Bailey Palmer's site */
 .page__content a,
-.page__content a:visited,
 .archive a,
-.archive a:visited,
-.sidebar a,
-.sidebar a:visited {
-  color: #003262 !important;
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+.sidebar a {
+  color: #003262;
 }
 
-/* Main site links on hover */
+/* Optional: slightly darker on hover */
 .page__content a:hover,
 .archive a:hover,
 .sidebar a:hover {
-  color: #001f4d !important;
-  text-decoration: underline !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+  color: #001f4d;
+  text-decoration: underline;
 }
 
-/* Coauthor line */
-body .page__content p.coauthors {
-  font-size: 0.85em !important;
-  color: #555 !important;
-  margin-top: -0.25rem !important;
-  margin-bottom: 0.75rem !important;
+/* Coauthor links look like normal text until hover */
+.coauthors {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: -0.25rem;
+  margin-bottom: 0.75rem;
 }
 
-/* Coauthor links: plain gray by default */
-body .page__content p.coauthors a.coauthor-link,
-body .page__content p.coauthors a.coauthor-link:link,
-body .page__content p.coauthors a.coauthor-link:visited,
-body .page__content p.coauthors a.coauthor-link:active {
-  color: #555 !important;
-  font-size: inherit !important;
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+.coauthors a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: none;
 }
 
-/* Coauthor links: blue only on hover */
-body .page__content p.coauthors a.coauthor-link:hover,
-body .page__content p.coauthors a.coauthor-link:focus {
-  color: #003262 !important;
-  font-size: inherit !important;
-  text-decoration: underline !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+.coauthors a:hover {
+  color: #003262;
+  text-decoration: underline;
 }
