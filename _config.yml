@@ -163,9 +163,9 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
-  - files
 exclude:
+  -  _pages
+  - files
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
