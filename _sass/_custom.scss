@@ -1,10 +1,35 @@
-.coauthors {
+/* Main site links */
+.page__content a,
+.page__content a:visited,
+.archive a,
+.archive a:visited,
+.sidebar a,
+.sidebar a:visited {
+  color: #003262 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Main site links on hover */
+.page__content a:hover,
+.archive a:hover,
+.sidebar a:hover {
+  color: #001f4d !important;
+  text-decoration: underline !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Coauthor line */
+.page__content .coauthors {
   font-size: 0.85em;
+  color: #555;
   margin-top: -0.25rem;
   margin-bottom: 0.75rem;
-  color: #555;
 }
-/* Darker blue links, similar to Bailey Palmer's site */
+
+/* Coauthor links look like plain text by default */
 .page__content .coauthors a,
 .page__content .coauthors a:visited,
 .page__content .coauthors a:link {
@@ -14,22 +39,7 @@
   box-shadow: none !important;
 }
 
-/* Optional: slightly darker on hover */
-.page__content a:hover,
-.archive a:hover,
-.sidebar a:hover {
-  color: #001f4d;
-  text-decoration: underline;
-}
-
-/* Coauthor links look like normal text until hover */
-.coauthors {
-  font-size: 0.85em;
-  color: #555;
-  margin-top: -0.25rem;
-  margin-bottom: 0.75rem;
-}
-
+/* Coauthor links only look linked on hover */
 .page__content .coauthors a:hover,
 .page__content .coauthors a:focus {
   color: #003262 !important;
