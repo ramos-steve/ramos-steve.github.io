@@ -8,8 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-### One Month Longer, One Month Later? Prepayments in the Auto Loan Market (https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf)
-**with Bradley Katcher, Geng Li, and Alvaro Mezza**
+### [One Month Longer, One Month Later? Prepayments in the Auto Loan Market] (https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf) with Bradley Katcher, Geng Li, and Alvaro Mezza
 
 <details>
 <summary>Abstract</summary>
@@ -26,7 +25,7 @@ choice of long-maturity loans.
 </details>
 
 
-Works in Progress
+## Works in Progress
 ### The Effects of Parent PLUS Loans on Educational and Family Finances 
 **with Sandra Black, Jeffrey Denning, Robert Fairlie, Oded Gurantz, and Michael Jensen**
 **Abstract**  
