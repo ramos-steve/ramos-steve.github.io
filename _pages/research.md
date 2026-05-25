@@ -43,5 +43,4 @@ choice of long-maturity loans.
   and 
   <a href="https://economics.nd.edu/people/graduate-students/michael-jensen/" target="_blank" rel="noopener">Michael Jensen</a>
 </p>
-**with Sandra Black, Jeffrey Denning, Robert Fairlie, Oded Gurantz, and Michael Jensen**
  
