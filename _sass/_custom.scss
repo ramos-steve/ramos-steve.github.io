@@ -8,7 +8,7 @@
 .page__content a,
 .archive a,
 .sidebar a {
-  color: #003262;
+  color: #003262 !important;
 }
 
 /* Optional: slightly darker on hover */
@@ -28,12 +28,11 @@
 }
 
 .coauthors a {
-  color: inherit;
-  text-decoration: none;
-  border-bottom: none;
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
 .coauthors a:hover {
-  color: #003262;
-  text-decoration: underline;
+  color: #003262 !important;
+  text-decoration: underline !important;
 }
