@@ -24,6 +24,7 @@ We document a secular trend of increasing auto loan maturity from 30 months to o
 
 
 ## Works in Progress
+
 ### The Effects of Parent PLUS Loans on Educational and Family Finances 
 <p class="coauthors">
   With 
@@ -50,6 +51,7 @@ In California, the delivery of water is handled through nearly 3,000 different u
 
 
  ## Non-Peer Reviewed Publications
+ 
  ### [Understanding Changes in Household Debt by Credit Risk Category: The Role of Credit Score Transitions](https://www.federalreserve.gov/econres/notes/feds-notes/the-role-of-credit-score-transitions-20190625.html)
 <p class="coauthors">
   With 
