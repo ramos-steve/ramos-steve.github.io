@@ -25,6 +25,17 @@ We document a secular trend of increasing auto loan maturity from 30 months to o
 
 ## Works in Progress
 
+### Skills without the Bills? Apprenticeships, Career Technical Education, and Consumer Credit Outcomes 
+<p class="coauthors">
+  With 
+  <a href="https://kasshernandez.github.io/" target="_blank" rel="noopener">Kassandra Hernndez</a>
+  and 
+  <a href="https://www.gabylohner.com/#/" target="_blank" rel="noopener">Gabrielle Lohner</a>
+</p>
+
+
+(joint with Kassandra Hernndez and Gaby Lohner)
+
 ### The Effects of Parent PLUS Loans on Educational and Family Finances 
 <p class="coauthors">
   With 
