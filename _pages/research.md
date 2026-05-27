@@ -7,7 +7,6 @@ author_profile: true
 
 
 ## Working Papers
-
 ### [One Month Longer, One Month Later? Prepayments in the Auto Loan Market](https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf) 
 <p class="coauthors">
   With 
@@ -24,7 +23,6 @@ We document a secular trend of increasing auto loan maturity from 30 months to o
 
 
 ## Works in Progress
-
 ### Skills without the Bills? Apprenticeships, Career Technical Education, and Consumer Credit Outcomes 
 <p class="coauthors">
   With 
@@ -33,8 +31,6 @@ We document a secular trend of increasing auto loan maturity from 30 months to o
   <a href="https://www.gabylohner.com/#/" target="_blank" rel="noopener">Gabrielle Lohner</a>
 </p>
 
-
-(joint with Kassandra Hernndez and Gaby Lohner)
 
 ### The Effects of Parent PLUS Loans on Educational and Family Finances 
 <p class="coauthors">
@@ -62,7 +58,6 @@ In California, the delivery of water is handled through nearly 3,000 different u
 
 
  ## Non-Peer Reviewed Publications
- 
  ### [Understanding Changes in Household Debt by Credit Risk Category: The Role of Credit Score Transitions](https://www.federalreserve.gov/econres/notes/feds-notes/the-role-of-credit-score-transitions-20190625.html)
 <p class="coauthors">
   With 
