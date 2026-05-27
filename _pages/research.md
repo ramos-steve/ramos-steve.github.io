@@ -24,6 +24,16 @@ We document a secular trend of increasing auto loan maturity from 30 months to o
 
 
 ## Works in Progress
+### The Effects of Parent PLUS Loans on Educational and Family Finances 
+<p class="coauthors">
+  With 
+  <a href="https://www.sandraeblack.com/" target="_blank" rel="noopener">Sandra Black</a>,
+  <a href="https://jeffdenning.com/" target="_blank" rel="noopener">Jeffrey Denning</a>,
+  <a href="https://rfairlie.sites.luskin.ucla.edu/" target="_blank" rel="noopener">Robert Fairlie</a>,
+  <a href="https://sites.google.com/site/ogurantz/" target="_blank" rel="noopener">Oded Gurantz</a>,
+  and 
+  <a href="https://economics.nd.edu/people/graduate-students/michael-jensen/" target="_blank" rel="noopener">Michael Jensen</a>
+</p>
 
 ### When the Credit Dries Up: Examining the Effect of Water Utility Surcharges on Consumer Credit
 <p class="coauthors">
@@ -40,14 +50,9 @@ In California, the delivery of water is handled through nearly 3,000 different u
 
 
 
-### The Effects of Parent PLUS Loans on Educational and Family Finances 
+ ## Non-Peer Reviewed Publications
+ ### [Understanding Changes in Household Debt by Credit Risk Category: The Role of Credit Score Transitions (https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf](https://www.federalreserve.gov/econres/notes/feds-notes/the-role-of-credit-score-transitions-20190625.htm)
 <p class="coauthors">
   With 
-  <a href="https://www.sandraeblack.com/" target="_blank" rel="noopener">Sandra Black</a>,
-  <a href="https://jeffdenning.com/" target="_blank" rel="noopener">Jeffrey Denning</a>,
-  <a href="https://rfairlie.sites.luskin.ucla.edu/" target="_blank" rel="noopener">Robert Fairlie</a>,
-  <a href="https://sites.google.com/site/ogurantz/" target="_blank" rel="noopener">Oded Gurantz</a>,
-  and 
-  <a href="https://economics.nd.edu/people/graduate-students/michael-jensen/" target="_blank" rel="noopener">Michael Jensen</a>
-</p>
- 
+  <a href="https://sites.google.com/site/sarenagoodman/" target="_blank" rel="noopener">Sarena Goodman</a>
+
