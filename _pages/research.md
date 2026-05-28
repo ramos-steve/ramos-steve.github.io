@@ -61,7 +61,7 @@ In California, the delivery of water is handled through nearly 3,000 different u
 
 ## Other Publications
 
-### [Startling Increase in California Auto Loans](https://capolicylab.org/wp-content/uploads/2026/01/Starting-Increase-in-California-Auto-Loans.pdf?_gl=1*1di8v8j*_ga*MTE2NTY3ODQ0OS4xNzc4NzgwODU3*_ga_T1Q63L9N7R*czE3Nzk5MzE4ODIkbzQkZzEkdDE3Nzk5MzE5MDUkajM3JGwwJGgw)
+### <a href="https://capolicylab.org/wp-content/uploads/2026/01/Starting-Increase-in-California-Auto-Loans.pdf?_gl=1*1di8v8j*_ga*MTE2NTY3ODQ0OS4xNzc4NzgwODU3*_ga_T1Q63L9N7R*czE3Nzk5MzE4ODIkbzQkZzEkdDE3Nzk5MzE5MDUkajM3JGwwJGgw" target="_blank" rel="noopener">Startling Increase in California Auto Loans</a>
 <p class="coauthors">
   With Sarah Hoover and
   <a href="https://capolicylab.org/staff/evan-white/" target="_blank" rel="noopener">Evan White</a>
@@ -74,7 +74,7 @@ In California, the delivery of water is handled through nearly 3,000 different u
 </p>
 
 
-### [Understanding Changes in Household Debt by Credit Risk Category: The Role of Credit Score Transitions](https://www.federalreserve.gov/econres/notes/feds-notes/the-role-of-credit-score-transitions-20190625.html)
+### <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-role-of-credit-score-transitions-20190625.html" target="_blank" rel="noopener">Understanding Changes in Household Debt by Credit Risk Category: The Role of Credit Score Transitions</a>
 <p class="coauthors">
   With 
   <a href="https://sites.google.com/site/sarenagoodman/" target="_blank" rel="noopener">Sarena Goodman</a>
