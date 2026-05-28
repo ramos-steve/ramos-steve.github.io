@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Steve Ramos"
+title                    : "Steve Ramos - Ph.D. Candidate in Economics"
 title_separator          : "-"
 name                     : &name "Ph.D. Candidate in Economics"
 description              : &description "Ph.D. Candidate in Economics"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -154,11 +154,11 @@ author:
 
 
 # # Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-QLH2SQ03FQ"
-    anonymize_ip: false
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-QLH2SQ03FQ"
+#     anonymize_ip: false
 
 # Reading Files
 include:
