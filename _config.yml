@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Steve Ramos"
 title_separator          : "-"
-name                     : &name "Steve Ramos"
+name                     : &name "Ph.D. Candidate in Economics"
 description              : &description "Ph.D. Candidate in Economics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ramos-steve.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -154,11 +154,11 @@ author:
 
 
 # # Analytics
-# analytics:
-#   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-#   google:
-#     tracking_id          :
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-QLH2SQ03FQ"
+    anonymize_ip: false
 
 # Reading Files
 include:
