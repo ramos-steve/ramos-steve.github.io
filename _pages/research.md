@@ -59,7 +59,7 @@ In California, the delivery of water is handled through nearly 3,000 different u
 </details>
 
 
-## Non-Peer Reviewed Publications
+## Other Publications
 
 ### [Startling Increase in California Auto Loans](https://capolicylab.org/wp-content/uploads/2026/01/Starting-Increase-in-California-Auto-Loans.pdf?_gl=1*1di8v8j*_ga*MTE2NTY3ODQ0OS4xNzc4NzgwODU3*_ga_T1Q63L9N7R*czE3Nzk5MzE4ODIkbzQkZzEkdDE3Nzk5MzE5MDUkajM3JGwwJGgw)
 <p class="coauthors">
