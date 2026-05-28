@@ -60,6 +60,24 @@ In California, the delivery of water is handled through nearly 3,000 different u
 
 
 ## Non-Peer Reviewed Publications
+
+### [Startling Increase in California Auto Loans](https://capolicylab.org/wp-content/uploads/2026/01/Starting-Increase-in-California-Auto-Loans.pdf?_gl=1*1di8v8j*_ga*MTE2NTY3ODQ0OS4xNzc4NzgwODU3*_ga_T1Q63L9N7R*czE3Nzk5MzE4ODIkbzQkZzEkdDE3Nzk5MzE5MDUkajM3JGwwJGgw)
+<p class="coauthors">
+  With 
+  <a href="" target="_blank" rel="noopener">Sarah Hoover</a>
+  and
+  <a href="https://capolicylab.org/staff/evan-white/" target="_blank" rel="noopener">Evan White</a>
+</p>
+
+### [Introducing the California Credit Dashboard](https://capolicylab.org/wp-content/uploads/2026/01/Introducing-the-California-Credit-Dashboard.pdf)
+<p class="coauthors">
+  With 
+  <a href="" target="_blank" rel="noopener">Sarah Hoover</a>
+  and
+  <a href="https://capolicylab.org/staff/evan-white/" target="_blank" rel="noopener">Evan White</a>
+</p>
+
+
 ### [Understanding Changes in Household Debt by Credit Risk Category: The Role of Credit Score Transitions](https://www.federalreserve.gov/econres/notes/feds-notes/the-role-of-credit-score-transitions-20190625.html)
 <p class="coauthors">
   With 
