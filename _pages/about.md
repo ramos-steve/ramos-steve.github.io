@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<h1 class="page-title-name">Steve Ramos</h1>
 
 Welcome to my website! I am Steve Ramos, a 7th-year Ph.D. candidate in the Department of Economics at U.C. Berkeley. My research interests are labor economics, public economics, the economics of education, and household finance. 
 
