@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-### [One Month Longer, One Month Later? Prepayments in the Auto Loan Market](https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf) 
+### <a href="https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf" target="_blank" rel="noopener">One Month Longer, One Month Later? Prepayments in the Auto Loan Market</a>
 <p class="coauthors">
   With 
   <a href="https://www.bradleykatcher.com/home" target="_blank" rel="noopener">Bradley Katcher</a>,
