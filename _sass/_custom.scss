@@ -72,7 +72,20 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.28) !important;
 }
 
+/*remove the orange box*/
+.page__content a:focus,
+.page__content a:active,
+.archive a:focus,
+.archive a:active,
+.sidebar a:focus,
+.sidebar a:active {
+  outline: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
 
+
+/* page title*/
 .page-title-name {
   color: #000000;
   font-size: 1.563em;
