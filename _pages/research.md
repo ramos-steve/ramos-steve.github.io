@@ -67,7 +67,7 @@ In California, the delivery of water is handled through nearly 3,000 different u
   <a href="https://capolicylab.org/staff/evan-white/" target="_blank" rel="noopener">Evan White</a>
 </p>
 
-### [Introducing the California Credit Dashboard](https://capolicylab.org/wp-content/uploads/2026/01/Introducing-the-California-Credit-Dashboard.pdf)
+### <a href="https://capolicylab.org/wp-content/uploads/2026/01/Introducing-the-California-Credit-Dashboard.pdf" target="_blank" rel="noopener">Introducing the California Credit Dashboard</a>
 <p class="coauthors">
   With Sarah Hoover and
   <a href="https://capolicylab.org/staff/evan-white/" target="_blank" rel="noopener">Evan White</a>
