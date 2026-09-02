@@ -10,17 +10,15 @@ author_profile: true
 
 ### <a href="https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf" target="_blank" rel="noopener">Training novices to think, or giving them LLMs? Evidence from an RCT</a>
 <p class="coauthors">
-  With 
-  Hemanth Asirvatham, Chiara Betti, Rachel Brown,
-  <a href="https://mgmt-tech.unibocconi.eu/faculty/arnaldo-camuffo" target="_blank" rel="noopener">Arnaldo Camuffo/a>,
-  <a href="https://www.ronnie-chatterji.com/" target="_blank" rel="noopener">Aaron Chatterji/a>,
-  <a href="https://didattica.unibocconi.it/mypage/index.php?IdUte=49033&idr=1783&lingua=ita" target="_blank" rel="noopener">Chiara Fumagalli/a>,
-  <a href="https://mgmt-tech.unibocconi.eu/faculty/alfonso-gambardella" target="_blank" rel="noopener">Alfonso Gambardella/a>,
-  <a href="https://www.unibocconi.it/en/faculty/myriam-mariani" target="_blank" rel="noopener">Myriam Mariani/a>,
-  <a href="https://www.unibocconi.it/en/faculty/abhinav-pandey" target="_blank" rel="noopener">Abhinav Pandey/a>,
-    Giovanni Salvucc,
-    and
-  <a href="https://iep.unibocconi.eu/vladimir-simic" target="_blank" rel="noopener">Vladimir Simic/a>,
+  With Hemanth Asirvatham, Chiara Betti, Rachel Brown,
+  <a href="https://mgmt-tech.unibocconi.eu/faculty/arnaldo-camuffo" target="_blank" rel="noopener">Arnaldo Camuffo</a>,
+  <a href="https://www.ronnie-chatterji.com/" target="_blank" rel="noopener">Aaron Chatterji</a>,
+  <a href="https://didattica.unibocconi.it/mypage/index.php?IdUte=49033&idr=1783&lingua=ita" target="_blank" rel="noopener">Chiara Fumagalli</a>,
+  <a href="https://mgmt-tech.unibocconi.eu/faculty/alfonso-gambardella" target="_blank" rel="noopener">Alfonso Gambardella</a>,
+  <a href="https://www.unibocconi.it/en/faculty/myriam-mariani" target="_blank" rel="noopener">Myriam Mariani</a>,
+  <a href="https://www.unibocconi.it/en/faculty/abhinav-pandey" target="_blank" rel="noopener">Abhinav Pandey</a>,
+    Giovanni Salvucci, and
+  <a href="https://iep.unibocconi.eu/vladimir-simic" target="_blank" rel="noopener">Vladimir Simic</a>
 </p>
 
 <details>
