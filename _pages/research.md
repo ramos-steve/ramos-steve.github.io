@@ -8,6 +8,27 @@ author_profile: true
 
 ## Working Papers
 
+### <a href="https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf" target="_blank" rel="noopener">Training novices to think, or giving them LLMs? Evidence from an RCT</a>
+<p class="coauthors">
+  With 
+  Hemanth Asirvatham, Chiara Betti, Rachel Brown,
+  <a href="https://mgmt-tech.unibocconi.eu/faculty/arnaldo-camuffo" target="_blank" rel="noopener">Arnaldo Camuffo/a>,
+  <a href="https://www.ronnie-chatterji.com/" target="_blank" rel="noopener">Aaron Chatterji/a>,
+  <a href="https://didattica.unibocconi.it/mypage/index.php?IdUte=49033&idr=1783&lingua=ita" target="_blank" rel="noopener">Chiara Fumagalli/a>,
+  <a href="https://mgmt-tech.unibocconi.eu/faculty/alfonso-gambardella" target="_blank" rel="noopener">Alfonso Gambardella/a>,
+  <a href="https://www.unibocconi.it/en/faculty/myriam-mariani" target="_blank" rel="noopener">Myriam Mariani/a>,
+  <a href="https://www.unibocconi.it/en/faculty/abhinav-pandey" target="_blank" rel="noopener">Abhinav Pandey/a>,
+    Giovanni Salvucc,
+    and
+  <a href="https://iep.unibocconi.eu/vladimir-simic" target="_blank" rel="noopener">Vladimir Simic/a>,
+</p>
+
+<details>
+<summary>Abstract</summary>
+We study whether LLMs and cognitive skills influence the evaluation of novices’ intellectual tasks, when these evaluations depend on standard and well-defined performance criteria. This is a common case (junior employees, students’ exams) making our question relevant. In a 2×2 randomized control trial, we assign 1,053 first-year undergraduates in economics, management and finance to one of four conditions: a training on causal reasoning (as a relevant cognitive skill for intellectual tasks), ChatGPT Edu access (GPT-4o), both, or neither. We provide a real-world merchandising business problem and ask experts to evaluate the participants’ solutions according to standard metrics in marketing. We find that causal reasoning changes how students think, leading to mechanism-based solutions and a greater diversity of ideas. However, causal reasoning does not improve evaluations, unlike ChatGPT. Greater textual coherence and a higher number of ideas explain about half of the ChatGPT effect, suggesting that, for novices facing well-defined problems, LLMs produce solutions that resemble expert recommendations not only in textual quality, but also in content. We also find that, when combined with causal training, ChatGPT increases the use of coherent logic, falsification logic, and the attempt to understand why (mechanisms). Overall, we find that human causal reasoning produces effects independently of LLMs, particularly on the diversity of ideas, and therefore it is worth cultivating causal reasoning in a world in which students use LLMs. Probably less appreciated is that the value of diverse ideas also requires an evaluation system that demands diversity rather than standard solutions.
+</details>
+
+
 ### <a href="https://www.federalreserve.gov/econres/feds/files/2024056pap.pdf" target="_blank" rel="noopener">One Month Longer, One Month Later? Prepayments in the Auto Loan Market</a>
 <p class="coauthors">
   With 
