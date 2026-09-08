@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h1 class="page-title-name">Steve Ramos</h1>
 
-Welcome to my website! I am Steve Ramos, a 7th-year Ph.D. candidate in the Department of Economics at U.C. Berkeley. My research interests are labor economics, public economics, the economics of education, and household finance. 
+Welcome to my website! I am Steve Ramos, a Ph.D. candidate in the Department of Economics at U.C. Berkeley. My research interests are public economics, the economics of education, labor economics, and household finance. 
 
 Prior to starting my Ph.D., I worked as a Research Assistant in the Consumer Finance Section at the Federal Reserve Board of Governors. I received a B.A. in Mathematics and a B.S. in Business Economics from Miami University in 2017. 
 
