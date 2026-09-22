@@ -12,7 +12,7 @@ Welcome to my website! I am Steve Ramos, a Ph.D. candidate in the Department of 
 
 Prior to starting my Ph.D., I worked as a Research Assistant in the Consumer Finance Section at the Federal Reserve Board of Governors. I received a B.A. in Mathematics and a B.S. in Business Economics from Miami University in 2017. 
 
---- **I will be on the 2026-2027 academic job market.**
+<! **I will be on the 2026-2027 academic job market.** -->
 
 Please contact me at steve[dot]ramos[at]berkeley[dot]edu!
 
